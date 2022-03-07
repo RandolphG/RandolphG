@@ -30,7 +30,7 @@ I'm Randolph Gordon a Frontend Web Developer. I spend most of my time coding out
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
 
 <details>
 <summary>
@@ -39,7 +39,7 @@ I'm Randolph Gordon a Frontend Web Developer. I spend most of my time coding out
 
 <br >
 
-I love sharing knowledge and posts together for helping other developers!
+I love sharing knowledge for helping other developers!
 
 
 #### Coding Stats
