@@ -30,7 +30,7 @@ I'm Randolph Gordon a Frontend Web Developer. I spend most of my time coding out
 
 #### Profile Visits
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
 
 <details>
 <summary>
