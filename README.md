@@ -25,7 +25,7 @@ I'm Randolph Gordon a Frontend Web Developer. I spend most of my time coding out
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Randolphg/Randolphg/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Randolphg/Randolphg/blob/master/resumes/RANDOLPH_GORDON_CV.docx)
 - :email: randolph.gordon@poplogics.com
 
 
