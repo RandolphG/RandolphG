@@ -4,7 +4,7 @@ I'm Randolph Gordon a Frontend Web Developer. I spend most of my time coding out
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randolph-g-1596a2a1/) [![Mail Badge](https://img.shields.io/badge/-@poplogics-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/poplogics) [![Mail Badge](https://img.shields.io/badge/-randolph-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:randolph.gordon@poplogics.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Randolph-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randolph-g-1596a2a1/) [![Mail Badge](https://img.shields.io/badge/-@poplogics-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/poplogics) [![Mail Badge](https://img.shields.io/badge/-randolph-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:randolph.gordon@poplogics.com)
 
 <!-- TODO: Add last video link -->
 
