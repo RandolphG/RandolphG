@@ -57,7 +57,6 @@ A frontend engineer spending most of the time coding unique projects.
 [![wakatime](https://wakatime.com/badge/user/cec3ed55-49d3-4551-875d-3577434dd425.svg)](https://wakatime.com/@cec3ed55-49d3-4551-875d-3577434dd425)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=randolphg&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <details>
 <summary>
@@ -81,8 +80,11 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
 #### GitHub Stats
 
 ![Randolphg's GitHub stats](https://github-readme-stats.vercel.app/api?username=randolphg&count_private=true&theme=tokyonight&hide=contribs,prs)
+<br >
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=randolphg&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
