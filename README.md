@@ -12,7 +12,7 @@ I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstand
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding project ideas.
 - 📫 How to reach me: randolph.gordon@poplogics.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fact: I'm Jamaican, born in Houston Texas and now living in Croatia.
 
 #### Top Technologies
 
