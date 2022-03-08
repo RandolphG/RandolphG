@@ -1,6 +1,28 @@
 ## I'm Randolph Gordon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstanding projects.
+A frontend engineer spending most of the time coding unique projects.
+
+
+```json
+{
+  "firstName" : "Randolph",
+  "lastName" : "Gordon",
+  "email" : "randolph.gordon@poplogics.ca",
+  "portfolio" : "http://poplogics.com",
+  "profession": "frontend engineer",
+  "languages": [
+	  "Javascript",
+	  "CSS",
+	  "TypeScript / React",
+	  "Python"
+  ],
+  "development": [
+	  "Backend - API",
+	  "Frontend "
+  ],
+  "country": "Croatia"
+}
+```
 
 :mailbox: Reach me out!
 
@@ -10,7 +32,7 @@ I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstand
 
 - 🔭 I’m currently working at @iOLAP
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding project ideas.
+- 🤔 I’m looking for unique project ideas.
 - 📫 How to reach me: randolph.gordon@poplogics.com.
 - ⚡ Fact: I'm Jamaican, born in Houston Texas and now living in Croatia.
 
@@ -31,6 +53,10 @@ I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstand
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
+
+[![wakatime](https://wakatime.com/badge/user/cec3ed55-49d3-4551-875d-3577434dd425.svg)](https://wakatime.com/@cec3ed55-49d3-4551-875d-3577434dd425)
+
+<br>
 
 
 
