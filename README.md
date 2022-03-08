@@ -56,9 +56,8 @@ A frontend engineer spending most of the time coding unique projects.
 
 [![wakatime](https://wakatime.com/badge/user/cec3ed55-49d3-4551-875d-3577434dd425.svg)](https://wakatime.com/@cec3ed55-49d3-4551-875d-3577434dd425)
 
-<br>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=randolphg&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <details>
 <summary>
