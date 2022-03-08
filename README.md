@@ -24,7 +24,7 @@ I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstand
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Randolphg/Randolphg/blob/master/resumes/RANDOLPH_GORDON_CV.docx)
+- :paperclip: [Resume/CV](https://github.com/Randolphg/Randolphg/blob/master/resumes/RANDOLPH_GORDON_CV.docx)
 - :email: randolph.gordon@poplogics.com
 
 
@@ -32,9 +32,7 @@ I'm Randolph Gordon a Frontend Engineer. I spend most of my time coding outstand
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
 
-[![wakatime](https://wakatime.com/badge/user/cec3ed55-49d3-4551-875d-3577434dd425.svg)](https://wakatime.com/@cec3ed55-49d3-4551-875d-3577434dd425)
 
-<br>
 
 <details>
 <summary>
