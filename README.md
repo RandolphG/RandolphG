@@ -7,7 +7,7 @@ A frontend engineer spending most of the time coding unique projects.
 {
   "firstName" : "Randolph",
   "lastName" : "Gordon",
-  "email" : "randolph.gordon@poplogics.ca",
+  "email" : "randolph.gordon@poplogics.com",
   "portfolio" : "http://poplogics.com",
   "profession": "frontend engineer",
   "languages": [
