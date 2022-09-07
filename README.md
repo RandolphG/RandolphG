@@ -30,7 +30,7 @@ A frontend engineer spending most of the time coding unique projects.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @iOLAP
+- 🔭 I’m currently working at @Autodesk
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for unique project ideas.
 - 📫 How to reach me: randolph.gordon@poplogics.com.
