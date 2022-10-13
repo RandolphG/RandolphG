@@ -11,14 +11,15 @@ A frontend engineer spending most of the time coding unique projects.
   "portfolio" : "http://poplogics.com",
   "profession": "frontend engineer",
   "languages": [
-	  "Javascript",
-	  "CSS",
-	  "TypeScript / React",
-	  "Python"
+	  "Javascript / TypeScript",
+	  "CSS / SCSS / Styled Components",
+	  " React",
+	  "Python",
+	  "Java"
   ],
   "development": [
-	  "Backend - API",
-	  "Frontend "
+	  "Backend",
+	  "Frontend"
   ],
   "country": "Croatia"
 }
