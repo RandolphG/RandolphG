@@ -37,8 +37,6 @@ A frontend engineer spending most of the time coding unique projects.
 - 📫 How to reach me: randolph.gordon@poplogics.com.
 - ⚡ Fact: I'm Jamaican, born in Houston Texas and now living in Croatia.
 
-#### Top Technologies
-
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
