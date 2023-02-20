@@ -13,7 +13,7 @@ A frontend engineer spending most of the time coding unique projects.
   "languages": [
 	  "Javascript / TypeScript",
 	  "CSS / SCSS / Styled Components",
-	  "React",
+	  "React","Angular",
 	  "Python",
 	  "Java"
   ],
