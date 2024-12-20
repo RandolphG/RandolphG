@@ -59,8 +59,6 @@ A frontend engineer spending most of the time coding unique projects.
 
 <br >
 
-I love sharing knowledge for helping other developers!
-
 
 #### Coding Stats
 
