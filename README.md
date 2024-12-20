@@ -47,11 +47,6 @@ A frontend engineer spending most of the time coding unique projects.
 - :email: randolph.gordon@poplogics.com
 
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=randolphg.randolphg)
-
-
 <details>
 <summary>
   More stuff about me
@@ -59,18 +54,6 @@ A frontend engineer spending most of the time coding unique projects.
 
 <br >
 
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 
 
 #### GitHub Stats
