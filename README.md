@@ -33,7 +33,6 @@ A frontend engineer spending most of the time coding unique projects.
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: randolph.gordon@poplogics.com.
-- ⚡ Fact: I'm Jamaican, born in Houston Texas and now living in Croatia.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
