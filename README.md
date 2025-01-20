@@ -58,6 +58,6 @@ Building unique projects.
 ![Randolphg's GitHub stats](https://github-readme-stats.vercel.app/api?username=randolphg&count_private=true&theme=tokyonight&hide=contribs,prs)
 <br >
 <br >
-![GitHub Streak](https://streak-stats.demolab.com/?user=RandolphG)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RandolphG)](https://git.io/streak-stats)
 
 </details>
