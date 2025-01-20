@@ -1,6 +1,6 @@
 ## I'm Randolph Gordon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-building unique projects.
+Building unique projects.
 
 
 ```json
@@ -9,7 +9,7 @@ building unique projects.
   "lastName" : "Gordon",
   "email" : "randolph.gordon@poplogics.com",
   "portfolio" : "http://poplogics.com",
-  "profession": "frontend engineer",
+  "profession": "sotware engineer",
   "languages": [
 	  "Javascript / TypeScript",
 	  "CSS / SCSS / Styled Components",
