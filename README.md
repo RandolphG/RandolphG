@@ -9,7 +9,7 @@ Building unique projects.
   "lastName" : "Gordon",
   "email" : "randolph.gordon@poplogics.com",
   "portfolio" : "http://poplogics.com",
-  "profession": "sotware engineer",
+  "profession": "software engineer",
   "languages": [
 	  "Javascript / TypeScript",
 	  "CSS / SCSS / Styled Components",
