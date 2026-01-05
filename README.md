@@ -21,7 +21,7 @@ Building unique projects.
 	  "Backend",
 	  "Frontend"
   ],
-  "country": "Croatia"
+  "country": "Netherlands"
 }
 ```
 
